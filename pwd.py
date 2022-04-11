@@ -105,3 +105,6 @@ while True:
         #     print(f"{compare_to[i][0]}:{compare_to[i][1]} -> {pw_key_time_list[i][0]}:{pw_key_time_list[i][1]}")
 
 listener.join()
+
+
+#idea by anonkorea4869 / www.github.com/anonkorea4869
